@@ -1,4 +1,6 @@
 $libs_class = 
 [
-	'lib_text',
+	'text',
+	'http',
+	'string',
 ];
